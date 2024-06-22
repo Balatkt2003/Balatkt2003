@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning B.tech Information Technology 
 - 💞️ I’m looking to collaborate on any technical projects
 - 📫 How to reach me balasubramanit14@gmail.com
-- Mobile: 9994122678
 
 <!---
 Balatkt2003/Balatkt2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
